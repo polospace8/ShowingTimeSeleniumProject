@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ShowingTime" duration-ms="26078" started-at="2018-03-19T17:44:08Z" finished-at="2018-03-19T17:44:34Z">
+    <groups>
+    </groups>
+    <test name="ShowingTime" duration-ms="26078" started-at="2018-03-19T17:44:08Z" finished-at="2018-03-19T17:44:34Z">
+      <class name="com.selenium.test.DataDrivenTest">
+        <test-method status="PASS" signature="TestSetup()[pri:0, instance:com.selenium.test.DataDrivenTest@6d8a00e3]" name="TestSetup" is-config="true" duration-ms="6087" started-at="2018-03-19T12:44:08Z" finished-at="2018-03-19T12:44:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestSetup -->
+        <test-method status="PASS" signature="requestDemo()[pri:1, instance:com.selenium.test.DataDrivenTest@6d8a00e3]" name="requestDemo" duration-ms="1519" started-at="2018-03-19T12:44:14Z" finished-at="2018-03-19T12:44:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- requestDemo -->
+        <test-method status="PASS" signature="verifyVideoPopUpIsDisplayed()[pri:2, instance:com.selenium.test.DataDrivenTest@6d8a00e3]" name="verifyVideoPopUpIsDisplayed" duration-ms="1861" started-at="2018-03-19T12:44:16Z" finished-at="2018-03-19T12:44:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyVideoPopUpIsDisplayed -->
+        <test-method status="PASS" signature="verifyURLsMatch()[pri:3, instance:com.selenium.test.DataDrivenTest@6d8a00e3]" name="verifyURLsMatch" duration-ms="5472" started-at="2018-03-19T12:44:18Z" finished-at="2018-03-19T12:44:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyURLsMatch -->
+        <test-method status="PASS" signature="verifyBillingLogInErrorMsg()[pri:4, instance:com.selenium.test.DataDrivenTest@6d8a00e3]" name="verifyBillingLogInErrorMsg" duration-ms="1956" started-at="2018-03-19T12:44:23Z" finished-at="2018-03-19T12:44:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBillingLogInErrorMsg -->
+        <test-method status="PASS" signature="verifySimpleImageIsDisplayed()[pri:5, instance:com.selenium.test.DataDrivenTest@6d8a00e3]" name="verifySimpleImageIsDisplayed" duration-ms="5086" started-at="2018-03-19T12:44:25Z" finished-at="2018-03-19T12:44:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySimpleImageIsDisplayed -->
+        <test-method status="PASS" signature="verifySTAppointementCenterIsDisplayed()[pri:6, instance:com.selenium.test.DataDrivenTest@6d8a00e3]" name="verifySTAppointementCenterIsDisplayed" duration-ms="3182" started-at="2018-03-19T12:44:30Z" finished-at="2018-03-19T12:44:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySTAppointementCenterIsDisplayed -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.selenium.test.DataDrivenTest@6d8a00e3]" name="tearDown" is-config="true" duration-ms="903" started-at="2018-03-19T12:44:33Z" finished-at="2018-03-19T12:44:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.selenium.test.DataDrivenTest -->
+    </test> <!-- ShowingTime -->
+  </suite> <!-- ShowingTime -->
+</testng-results>
